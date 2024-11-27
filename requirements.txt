@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-google-genai
+langchain-core
+langchain_chroma
+langgraph
+chromadb
+langchain-community
+pypdf
+streamlit
+
+# pip install -r requirements.txt
